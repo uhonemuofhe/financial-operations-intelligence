@@ -1,0 +1,13 @@
+PROJECT DOCUMENTATION,
+,
+Project Name,Financial Operations Intelligence: Transaction Reconciliation & Data Quality Monitoring
+Project Type,Simulated financial operations analysis
+Tool Used,Google Sheets
+Objective,"Analyse transaction statuses, identify data-quality issues, and summarise operational performance"
+Dataset Size,15 transactions
+Data Quality Issues,1 missing amount and 2 records flagged for a repeated reference
+Key KPI,66.67% completion rate
+Main Recommendation,Investigate the repeated reference and resolve the missing amount before relying on the affected records
+,
+Methodology.,
+"Reviewed transaction records, checked amounts and reference IDs, flagged potential data-quality issues, calculated status counts and performance rates, and created a summary report and chart",
